@@ -17,6 +17,7 @@ class _HomePageState extends State<HomePage> {
     Band(id: '1', name: 'pets', votes: 3),
     Band(id: '2', name: 'daddy', votes: 4),
   ];
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
